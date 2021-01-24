@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-prueba final final agua
-=======
-prueba final genial luego
->>>>>>> 729fec46440d5d51c1aa577c3ad7ae26f77c0a78
